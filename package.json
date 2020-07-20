@@ -1,0 +1,15 @@
+{
+  "name": "snaplogic-report-generator",
+  "version": "1.0.0",
+  "description": "Generate reports for interfaces run in Snaplogic with customisable intervals and time span.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Anurag Roy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
